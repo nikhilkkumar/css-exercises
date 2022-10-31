@@ -4,16 +4,16 @@
 }
 
 #second {
+  font-size: 36px;
   color: #0000ff;
-  font: 36px;
 }
 
-#third {
+.odd.third {
   font-size: 24px;
 }
 
 #fourth {
   font-size: 24px;
-  font-style: oblique;
+  font-weight: bold;
   background-color: rgb(144, 238, 144);
 }

@@ -10,12 +10,13 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  flex: 1 0 0;
+  text-align: center;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
 }
 
 a {

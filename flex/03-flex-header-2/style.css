@@ -52,3 +52,7 @@ ul {
   gap: 8px;
   align-items: center;
 }
+
+.right-side {
+  display: flex;
+}

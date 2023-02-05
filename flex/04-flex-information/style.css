@@ -27,6 +27,8 @@ img {
   display: flex;
   flex-direction: column;
   flex: 0;
+  flex-basis: 200px;
+  align-items: center;
 }
 
 /* do not edit this footer */

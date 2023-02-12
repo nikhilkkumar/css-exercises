@@ -36,15 +36,18 @@ ul {
 
 .footer {
   display: flex;
+  background-color: #eeeeee;
 }
 
 .left-links {
   flex: 1 0 0;
   display: flex;
   gap: 8px;
+  padding-left: 16px;
 }
 
 .right-links {
   display: flex;
   gap: 8px;
+  padding-right: 16px;
 }

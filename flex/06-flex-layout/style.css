@@ -66,3 +66,8 @@ ul {
   flex: 1 0 0;
   justify-content: center;
 }
+
+a {
+  color: #666;
+  text-decoration: none;
+}

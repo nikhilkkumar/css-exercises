@@ -31,6 +31,7 @@ body {
   background: royalblue;
   flex-basis: 100;
   flex-shrink: 0;
+  font-size: 24px;
 }
 
 .card {
@@ -47,6 +48,11 @@ body {
 ul {
   list-style: none;
   padding: 0px 16px;
+  margin-top: 16px;
+}
+
+li {
+  margin-top: 4px;
 }
 
 a {

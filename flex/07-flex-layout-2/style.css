@@ -38,6 +38,8 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 320px;
+  flex-basis: 100;
 }
 
 .middle {
@@ -52,10 +54,17 @@ ul {
 }
 
 li {
-  margin-top: 4px;
+  margin-top: 16px;
 }
 
 a {
   text-decoration: none;
   color: #FFFFFF;
+}
+
+.cards {
+  display: flex;
+  padding: 32px;
+  flex-wrap: wrap;
+  gap: 24px;
 }
